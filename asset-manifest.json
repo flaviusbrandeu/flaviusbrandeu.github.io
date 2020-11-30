@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcd8385e.chunk.css",
+    "main.js": "/static/js/main.4a7bf58f.chunk.js",
+    "main.js.map": "/static/js/main.4a7bf58f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9d61d2b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9d61d2b.js.map",
+    "static/js/2.ca62949c.chunk.js": "/static/js/2.ca62949c.chunk.js",
+    "static/js/2.ca62949c.chunk.js.map": "/static/js/2.ca62949c.chunk.js.map",
+    "static/js/3.93f48d15.chunk.js": "/static/js/3.93f48d15.chunk.js",
+    "static/js/3.93f48d15.chunk.js.map": "/static/js/3.93f48d15.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fcd8385e.chunk.css.map": "/static/css/main.fcd8385e.chunk.css.map",
+    "static/js/2.ca62949c.chunk.js.LICENSE.txt": "/static/js/2.ca62949c.chunk.js.LICENSE.txt",
+    "static/media/black-vinyl-1.d82270ba.jpg": "/static/media/black-vinyl-1.d82270ba.jpg",
+    "static/media/led-zeppelin-1.6686d86e.jpg": "/static/media/led-zeppelin-1.6686d86e.jpg",
+    "static/media/logo192.f84090d0.jpg": "/static/media/logo192.f84090d0.jpg",
+    "static/media/pink-floyd-the-division-bell.6af64f73.jpg": "/static/media/pink-floyd-the-division-bell.6af64f73.jpg",
+    "static/media/pink-floyd-the-wall.28c80ba4.jpg": "/static/media/pink-floyd-the-wall.28c80ba4.jpg",
+    "static/media/vinyls.52a114f2.jpg": "/static/media/vinyls.52a114f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9d61d2b.js",
+    "static/js/2.ca62949c.chunk.js",
+    "static/css/main.fcd8385e.chunk.css",
+    "static/js/main.4a7bf58f.chunk.js"
+  ]
+}
